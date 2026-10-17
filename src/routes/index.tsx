@@ -23,7 +23,7 @@ function Index() {
         <div className="access-check" aria-hidden="true"><Check /></div>
         <h1>Tudo pronto! <span>Clique em continuar para acessar.</span></h1>
         <Button asChild variant="continue" size="continue">
-          <a href="https://metodoslucrando.netlify.app">Continuar <ArrowRight aria-hidden="true" /></a>
+          <a href="https://wa.me/5521920416136?text=Eu%20quero%20aprender%20a%20ganhar%20dinheiro%20com%20Intelig%C3%AAncia%20Artificial.">Continuar <ArrowRight aria-hidden="true" /></a>
         </Button>
       </div>
     </main>
